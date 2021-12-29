@@ -1,0 +1,13 @@
+.website-anchor{
+    display:block;
+    text-align: center;
+}
+.website-title{
+    width: 25px;
+}
+.website-images{
+    display: inline-block;
+    font-size: 20px;
+    width: 100px;
+    text-align: left;
+}
