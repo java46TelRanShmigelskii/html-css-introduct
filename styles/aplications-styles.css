@@ -1,0 +1,17 @@
+.website-anchor{
+    display:block;
+    text-align: center;
+}
+.website-title{
+    width: 25px;
+}
+.website-images{
+    display: inline-block;
+    font-size: 20px;
+    width: 90px;
+    text-align: left;
+}
+.footer-anchor{
+    display: inline;
+    font-size: 2vw;
+}
